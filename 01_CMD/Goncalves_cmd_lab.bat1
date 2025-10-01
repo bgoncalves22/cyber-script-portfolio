@@ -1,0 +1,36 @@
+
+cd C:\Users\student\Desktop
+mkdir club_booth
+cd club_booth
+REM Open the general help menu so a beginner could see where to learn more
+help dir
+REM list the contents of the current folder on screen, then write the same listing to a fole named inventory.txt in the current folder
+dir club_booth
+dir > visitors.txt
+type visitors.txt
+REM Create a text file named notes.txt that contains one short line and then add a second line without erasing the first line. 
+echo first note > notes.txt
+echo second note >> notes.txt
+REM Display notes.txt on screen. If the file is long, provide a way to read it one page at a time.
+type notes.txt
+type notes.txt | more
+REM Create a subfolder named backup.
+mkdir backup
+REM Copy notes.txt into backup folder
+copy notes.txt backup\notes.txt
+REM Create a subfolder named archive. Move the copied file from backup into the archive. 
+mkdir archive
+move backup\notes.txt archive\
+REM Rename the moved file to notes_day1.txt
+ren archive\notes.txt notes_day1.txt
+REM Search the original notes.txt for a specific word of your choice, ignore the letter case, and show the matching line on screen.
+find /i "first" notes.txt
+REM Create a temporary file in the current folder, delete that temporary file and remove the empty backup folder. 
+echo temp > Cybot.tmp
+del Cybot.tmp
+rmdir archive
+REM Update inventory.txt so it reflects the current content of the cmd_lab.
+rem Reflection, what did you learn
+dir > visitors.txt
+echo This script teaches how to create a working folder, learn from help pages, make and update notes files , make back up copies, delete and search inside of the file >> notes.txt
+echo Thank you for reading this script and working with me to create and learn. :-)
