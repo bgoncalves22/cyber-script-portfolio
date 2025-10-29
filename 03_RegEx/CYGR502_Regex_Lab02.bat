@@ -1,5 +1,5 @@
 cd C:\Users\student\Desktop
-mkdir Lab02_Log
+mkdir Lab02_Log 
 move C:\Users\student\Downloads\Lab2_Log_00.txt  C:\Users\student\Desktop\Lab02_Log
 dir C:\Users\student\Desktop\Lab02_Log
 type C:\Users\student\Desktop\Lab02_Log\Lab2_Log_00.txt

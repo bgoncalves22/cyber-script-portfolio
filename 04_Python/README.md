@@ -1,1 +1,2 @@
 Notes and scripts for Python Labs.
+October 29 - Setting up Visual Studio Code Editor and anchoring github - followed by installing python - We learned to use the terminal and the automatic calc. feature in the Python terminal. Next, we focused on actual Python script using print function and () to output the same infromation we use created in the terminal 
