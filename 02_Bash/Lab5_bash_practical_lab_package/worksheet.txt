@@ -1,0 +1,13 @@
+Practical Bash Labs Worksheet
+
+Lab 1: Log Searching
+Use grep to find failed login attempts in auth.log.
+
+Lab 2: System Snapshot
+Collect kernel info, disk usage, processes, and users into report.txt.
+
+Lab 3: File Investigation
+Identify files with 'keyword' and list recently modified files.
+
+Lab 4: Build a Triage Script
+Use the starter script to automate system information collection.

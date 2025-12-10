@@ -1,0 +1,5 @@
+2025-11-04 10:00:23 - User: Alice - 401 Unauthorized
+2025-11-04 10:01:12 - User: Bob - 200 OK
+2025-11-04 10:02:15 - User: Alice - 401 Unauthorized
+2025-11-04 10:03:45 - User: Alice - 401 Unauthorized
+2025-11-04 10:04:10 - User: Alice - 401 Unauthorized

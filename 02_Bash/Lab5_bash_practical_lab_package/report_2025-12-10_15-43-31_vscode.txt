@@ -1,0 +1,13 @@
+System Triage Report
+Date:
+Wed, Dec 10, 2025  3:43:31 PM
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git   40G   28G   12G  70% /
+Logged in users:
+Kernel Information:
+MINGW64_NT-10.0-26100 EC2AMAZ-4I2DJQH 3.6.4-b9f03e96.x86_64 2025-07-16 18:17 UTC x86_64 Msys
+Recent authentication failures(if auth.log is present):
+Jan 10 09:16:01 system sshd[1205]: Failed password for root from 203.0.113.5
+Jan 10 09:17:44 system sshd[1208]: Failed password for admin from 203.0.113.5
+Jan 10 09:20:12 system sshd[1215]: Failed password for unknown from 203.0.113.5

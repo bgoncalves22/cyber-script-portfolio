@@ -1,0 +1,6 @@
+http://example.com/login
+https://secure.bank.example/reset
+http://rnicrosoft.com/update
+https://phish.bad.cn/secure/login
+http://good.example.com
+https://login.security-portal.ru/auth
