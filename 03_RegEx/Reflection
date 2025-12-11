@@ -1,0 +1,3 @@
+Parts of Lab 2 were difficult when understanding RegEx - however, with RegEx101 and following the lab a bit closer, it became easier.
+Also, lab 2 is where I discovered that if a code gives any errors, try running it in sections until the proper output is displayed. 
+RegEx is useful in later labs and will be used to identify and pull specific information from lines of code such as '401' and '403'. 
