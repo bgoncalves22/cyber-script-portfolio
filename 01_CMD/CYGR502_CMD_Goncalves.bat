@@ -1,6 +1,8 @@
 
 rem cd %USERPROFILE%\Desktop  - this is not working, please identify proper userprofile 
-cd C:\Users\student\Desktop
+rem cd is to change directory 
+cd C:\Users\student\Desktop 
+rem mkdir is to make a directory
 mkdir cmd_lab
 cd cmd_lab
 rem Ask for help, learn the tool by reading
