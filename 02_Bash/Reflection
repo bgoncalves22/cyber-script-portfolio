@@ -1,0 +1,5 @@
+December 10th - Reflection: (word doc) This triage script may behave differently in VS Code than Kali Linux due to different file paths displayed between Windows and Linux. 
+A cybersecurity analyst should never assume a directory layout and say exactly what they need to. Permission may cause an issue in VS Code and Kali Linux due to the way the system 
+is allowing the script to process. Although, the permissions were granted here, it could have been denied using the VS Code on Windows instead of Kali Linux. When using VS Code, 
+you can access Git Bash which would not be equal to the real Linux. Tools may vary across different environments. As for cybersecurity anaylsts, they will need to be aware of the proper codes and what is useable
+in Kali Linux versus a Git Cash terminal.Notes and scripts for BASH Labs.
